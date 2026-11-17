@@ -1,0 +1,10 @@
+{
+  "name": "lovely-router",
+  "version": "1.0.0",
+  "description": "Hosted MCP server (streamable HTTP at https://lovelyrouter.com/mcp): web search, page reading, pay-per-result data tools, a cloud browser agent and image generation. Paid per use from a prepaid key; reads the key from LOVELY_API_KEY.",
+  "author": { "name": "Gnbly Inc.", "url": "https://lovelyrouter.com" },
+  "homepage": "https://lovelyrouter.com/mcp-server",
+  "repository": "https://github.com/gnbly/lovelyrouter-examples",
+  "license": "MIT",
+  "keywords": ["mcp", "web-search", "web-scraping", "browser-automation", "data-tools"]
+}

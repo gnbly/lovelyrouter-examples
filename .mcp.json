@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "lovely-tools": {
+      "url": "https://lovelyrouter.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:LOVELY_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "lovelyrouter-openai-node",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node main.js" },
+  "dependencies": { "openai": "^7.57.0" }
+}
